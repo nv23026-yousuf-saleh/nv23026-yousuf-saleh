@@ -103,3 +103,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="contribution snake">
 </p>
+
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbVV-xrANQtTd0zdOcrav64DHX4iZqDJUGOQ&s" width="100%" style="border-radius:10px" alt="Lofi Coder Setup">
+</p>
